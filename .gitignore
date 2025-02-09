@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 scraped_data/
+firstname/
+a2sv/
 
 # Distribution / packaging
 .Python
